@@ -15,7 +15,6 @@ functionalities towards these ads. Since advertiser will be assigned with an ad 
 
 ## Ads Attributes
 
-Ads Attributes:
 - type(free/paid), title, description, category, tags, advertiser, start_date.
 - Each Ad is created under one category and has many related tags
 - One category can have many ads and each Ad is related to one category.
